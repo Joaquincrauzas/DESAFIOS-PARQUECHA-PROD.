@@ -45,12 +45,6 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-
-header{
-    width: 100%;
-
-} */
-
 .logo{
     display: flex;
     flex-wrap: wrap;
@@ -101,7 +95,7 @@ header a{
     font-size: 125%;
     border: 2px solid white;
     border-radius: 6px;
-    width: 80px;
+    width: 200px;
 
 }
 /* .containerHernan .fotosHernan{
@@ -197,17 +191,17 @@ header nav{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border-radius: 50%;
+    border-radius: 20%;
     border: 0.5px solid white;
     text-decoration: none;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200;
-    width: 300px;
-    right: 300px;
+    font-size: 200%;
+    width: 150px;
+    right: 100px;
     padding: 90px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 720px;
     animation-name: titulo2;
     animation-duration: 10s;
 }   
@@ -257,11 +251,11 @@ header nav{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200;
-    width: 300px;
-    right: 300px;
+    width: 150px;
+    right: 100px;
     padding: 90px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 720px;
 }
 
 .primerevento{
@@ -344,11 +338,11 @@ header nav{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200;
-    width: 300px;
-    right: 300px;
+    width: 150px;
+    right: 100px;
     padding: 100px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 720px;
 }
 
 .packbasico1{
@@ -456,11 +450,11 @@ header nav{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200;
-    width: 300px;
-    right: 300px;
+    width: 150px;
+    right: 100px;
     padding: 100px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 720px;
 }
 
 .imagenmatgeo{
@@ -520,11 +514,11 @@ header nav{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200;
-    width: 300px;
-    right: 300px;
+    width: 150px;
+    right: 100px;
     padding: 100px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 720px;
 
 }
 
@@ -533,7 +527,7 @@ header nav{
     flex-direction: row;
     justify-content: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 300;
+    font-size: 150%;
     color: white;
     margin: 10px;
     padding: 20px;
