@@ -21,28 +21,6 @@ h3{
     font-size: 140%;
 }
 
-/* .containerHernan{
-    margin-top: 50px;
-}
-
-.navLogo img{
-    width: 230px;
-}
-.navContainer .navContainerdos  .navLinks a{
-    color: white;
-    font-size: 200%;
-    margin: 35px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: black;
-}
-.navContainerdos{
-    background-color: black;
-} */ 
-
-/* .containerHernan .fotosHernan{
-    border-radius: 33%;
-} */
-
 header{
     display: flex;
     flex-wrap: wrap;
