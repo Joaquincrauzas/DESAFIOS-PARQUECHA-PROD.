@@ -37,7 +37,11 @@ h3{
 }
 .navContainerdos{
     background-color: black;
-} */ */
+} */ 
+
+/* .containerHernan .fotosHernan{
+    border-radius: 33%;
+} */
 
 header{
     display: flex;
@@ -98,9 +102,6 @@ header a{
     width: 200px;
 
 }
-/* .containerHernan .fotosHernan{
-    border-radius: 33%;
-} */
 
 header a:hover{
     background-color: white;
@@ -1070,190 +1071,3 @@ header{
     width: 400px;
 }
 }
-
-
-
-/* 
-header{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    justify-items: self-start;
-    font-size: 100%;
-    width: 350px;
-
-}
-header .logo{
-    width: 100%;
-    height: 100%;
-
-}
-.fondo img{
-    width: 300px;
-}
-.topfive{
-    display: flex;
-    flex-direction: column;
-    font-size: 100%;
-
-}
-.topfive .topfiveH3{
-    width: 100px;
-
-    
-}
-.topfive .topfivespotify{
-    width: 100px;
-
-}
-
-.recomendados{
-    display: flex;
-    flex-direction: column;
-    font-size: 100%;    
-
-}
-
-.recomendados .recomendadosH3{
-    width: 100px;
-
-}
-
-.recomendados .recomendadossouncloud{
-    width: 120px;
-
-}
-.titulo2{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-size: 100%;
-    width: 250px;
-    margin: 50px;
-}
-.tresamigos{
-
-    width: 300px;
-    font-size: 150%;    
-
-
-}
-
-.tresamigosFoto img{
-    display: none;
-
-}
-
-
-.titulo3{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-size: 100%;
-    width: 250px;
-    margin: 50px;
-}
-
-
-
-.titulo4{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-size: 100%;
-    width: 250px;
-    margin: 50px;
-
-}
-
-.titulo5{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-size: 100%;
-    width: 250px;
-    margin: 50px;
-
-}
-.imagenmatgeo{
-    display: flex;
-    justify-content: center;
-    margin: 40px;
-    padding: 40px;
-    width: 300px;
-
-
-}
-.textomatgeo{
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    font-size: 150%;
-    width: 340px;
-    margin: 0%;
-
-}
-.setmatgeo{
-   width: 50%;
-   height: 50%;
-
-
-}
-
-
-.imagenjcr{
-    display: flex;
-    justify-items: center;
-    justify-content: center;
-    margin: 50px;
-    padding: 50px;
-
-}
-
-.textojcr{
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    font-size: 150%;
-    width: 340px;
-    margin: 0%;
-
-}
-
-.setjcr{
-    width: 50%;
-    height: 50%;
-
-}
-.titulo6{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-size: 150%;
-    width: 200px;
-    margin: 50px;
-
-
-}
-.texto6{
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    font-size: 150%;
-    width: 340px;
-    margin: 0%;
-
-}
-
-.footer{
-    display: flex;
-    flex-direction: column;
-
-}
-.footer img{
-    width: 50px;
-    height: 40px;
-    margin: 10px;
-    padding: 10px;
-
-}  */
