@@ -656,14 +656,14 @@ header nav{
 header{
     display: grid;
     align-items: center;
-    grid-template-columns: 2fr;
-    grid-template-rows: 5fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: 6fr;
     grid-template-areas: 
-    "logo header1" 
-    "header2 header2"
-    "header3 header3"
-    "header4 header4 "
-    "header5 header5";
+    "logo"
+    "header2"
+    "header3"
+    "header4"
+    "header5";
 }
 .containerHeader:hover .containerUno,
 .containerHeader:hover .containerDos,
@@ -693,9 +693,9 @@ header{
 }
 
 .fondo img{
-    width: 400px;
+    width: 300px;
     height: 350px;
-    transform: none;
+
 }
 
 .topfive{
